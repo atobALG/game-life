@@ -1,2 +1,2 @@
-# game-life
+# g-life
 h
